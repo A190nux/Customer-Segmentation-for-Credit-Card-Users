@@ -36,5 +36,6 @@ This project involved the following key steps:
     * Python 3.x
     * Required Python libraries (install using `pip install pandas numpy scikit-learn matplotlib seaborn`)
 2.  **Installation:**
-    * Clone the repository: `git clone [repository URL]`
+    * Clone the repository: `git clone https://github.com/A190nux/Customer-Segmentation-for-Credit-Card-Users.git`
     * Navigate to the project directory: `cd [project directory]`
+    * Run the Research Notebook
